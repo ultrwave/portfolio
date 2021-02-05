@@ -8,7 +8,7 @@ export function Main () {
             <div className={styleContainer.Container}>
                 <div className={style.Greeting}>
                     <span>Hi There</span>
-                    <h1>Dmitry Reactov</h1>
+                    <h1>Dmitry Pokrepa</h1>
                     <p>Frontend developer</p>
                 </div>
                 <div className={style.Photo}></div>

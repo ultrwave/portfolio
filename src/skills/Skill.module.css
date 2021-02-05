@@ -1,6 +1,6 @@
 .Skill {
     width: 250px;
-    background-color: bisque;
+    background-color: lightskyblue;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;

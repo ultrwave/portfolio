@@ -17,6 +17,9 @@ export function SkillsBlock() {
                            description={'Suspendisse augue elit, euismod id mattis ut, ultrices vitae ex.'}
                     />
                     <Skill title={'React'}
+                           description={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut molestie dui.'}
+                    />
+                    <Skill title={'Redux'}
                            description={'Suspendisse augue elit, euismod id mattis ut, ultrices vitae ex.'}
                     />
                     <Skill title={'TypeScript'}
