@@ -4,6 +4,7 @@ import {Header} from './header/Header';
 import {Main} from './main/Main';
 import {SkillsBlock} from './skills/SkillsBlock';
 import {ProjectsBlock} from './projects/ProjectsBlock';
+import {Relocate} from './relocate/Relocate';
 
 function App() {
     return (
@@ -12,6 +13,7 @@ function App() {
             <Main/>
             <SkillsBlock/>
             <ProjectsBlock/>
+            <Relocate/>
         </div>
     );
 }

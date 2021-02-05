@@ -1,0 +1,16 @@
+.Title {
+    background-color: dimgray;
+}
+
+.Relocate {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.RelocateButton {
+    margin-top: 50px;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+}
