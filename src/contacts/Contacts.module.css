@@ -1,0 +1,35 @@
+.Contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Title {
+    background-color: dimgray;
+}
+
+.Form {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Form > input {
+    margin: 5px 0;
+    height: 20px;
+}
+
+.Form > textarea {
+    margin-top: 5px;
+    height: 100px;
+    resize: none;
+}
+
+.SendButton {
+    margin-top: 50px;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+}
