@@ -6,6 +6,7 @@ import {SkillsBlock} from './skills/SkillsBlock';
 import {ProjectsBlock} from './projects/ProjectsBlock';
 import {Relocate} from './relocate/Relocate';
 import {Contacts} from './contacts/Contacts';
+import {Footer} from './footer/Footer';
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
             <ProjectsBlock/>
             <Relocate/>
             <Contacts/>
+            <Footer/>
         </div>
     );
 }

@@ -1,0 +1,29 @@
+.Footer {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Name {
+    background-color: dimgray;
+}
+
+.Social {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+}
+
+.Thumbnail {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+}
+
+.Copyright {
+    font-weight: bold;
+}
