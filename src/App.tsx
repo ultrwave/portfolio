@@ -3,6 +3,7 @@ import './App.css';
 import {Header} from './header/Header';
 import {Main} from './main/Main';
 import {SkillsBlock} from './skills/SkillsBlock';
+import {ProjectsBlock} from './projects/ProjectsBlock';
 
 function App() {
     return (
@@ -10,6 +11,7 @@ function App() {
             <Header/>
             <Main/>
             <SkillsBlock/>
+            <ProjectsBlock/>
         </div>
     );
 }

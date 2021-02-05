@@ -13,11 +13,14 @@ export function SkillsBlock() {
                     <Skill title={'JavaScript'}
                            description={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut molestie dui, vel pretium magna.'}
                     />
-                    <Skill title={'HTML'}
+                    <Skill title={'HTML + CSS'}
                            description={'Suspendisse augue elit, euismod id mattis ut, ultrices vitae ex.'}
                     />
-                    <Skill title={'CSS'}
-                           description={'Ut maximus enim eu quam placerat, non viverra justo consectetur. Suspendisse non fermentum tortor. In interdum viverra leo vel laoreet.'}
+                    <Skill title={'React'}
+                           description={'Suspendisse augue elit, euismod id mattis ut, ultrices vitae ex.'}
+                    />
+                    <Skill title={'TypeScript'}
+                           description={'Ut maximus enim eu quam placerat, non viverra justo consectetur.'}
                     />
                 </div>
             </div>

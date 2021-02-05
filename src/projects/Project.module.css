@@ -1,0 +1,26 @@
+.Project {
+    width: 300px;
+    background-color: darkkhaki;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+}
+
+.Preview {
+    height: 200px;
+    width: 100%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.PreviewButton {
+    outline: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+}

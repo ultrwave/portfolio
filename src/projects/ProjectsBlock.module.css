@@ -1,9 +1,9 @@
-.SkillsBlock {
+.ProjectsBlock {
     height: 100vh;
-    background-color: darkcyan;
+    background-color: lightskyblue;
 }
 
-.SkillsContainer {
+.ProjectsContainer {
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
@@ -14,7 +14,7 @@
     margin: 50px 0;
 }
 
-.Skills {
+.Projects {
     border: 1px solid;
     width: 100%;
     display: flex;
