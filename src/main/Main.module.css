@@ -10,6 +10,7 @@
 
 .Photo {
     width: 300px;
+    min-width: 200px;
     height: 400px;
     background-color: cornflowerblue;
 }

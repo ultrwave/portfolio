@@ -9,7 +9,8 @@
 }
 
 .Footer {
-    height: 200px;
+    width: 30%;
+    min-height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -20,11 +21,10 @@
 }
 
 .Social {
-    width: 400px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
     border: 1px solid;
 }
 
