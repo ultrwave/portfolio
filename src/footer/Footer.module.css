@@ -21,17 +21,17 @@
 }
 
 .Social {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
     border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .Thumbnail {
     height: 50px;
     width: 50px;
     background-color: brown;
+    margin: 2px;
 }
 
 .Copyright {
